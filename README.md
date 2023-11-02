@@ -1,2 +1,2 @@
-# Cortex-MQTT
-Cortex-MQTT is a Python-based AI agent leveraging MQTT for intelligent IoT communication.
+# Nanocortex
+Nanocortex is cognitive architecture designed for IoT, utilizing MQTT for communication and managing states in an intelligent state machine.
